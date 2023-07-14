@@ -6,3 +6,16 @@
     box-sizing: border-box;
     border: 0;
 }
+
+.carousel {
+    margin: auto;
+    width: 100%;
+    height: auto;
+    padding: 0 !important;
+}
+
+.carousel-content {
+    width:400%;
+    height: auto;
+    display: flex;
+}
