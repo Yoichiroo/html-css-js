@@ -18,4 +18,5 @@
     width:400%;
     height: auto;
     display: flex;
+    overflow: hidden;
 }
