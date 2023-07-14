@@ -12,11 +12,22 @@
     width: 100%;
     height: auto;
     padding: 0 !important;
+    overflow: hidden;
 }
 
 .carousel-content {
     width:400%;
     height: auto;
     display: flex;
-    overflow: hidden;
+}
+
+.carousel-content input {
+    display: none;
+}
+
+.carousel-box {
+    width: 25%;
+    height: auto;
+    position: relative;
+    text-align: center;
 }
