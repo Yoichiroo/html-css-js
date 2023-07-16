@@ -60,3 +60,9 @@
 .nav-manual .btn-manual:hover {
     background-color: rgb(0, 81, 255);
 }
+
+#r1:checked ~ .nav-auto .btn1 { background-color: rgb(0, 81, 255); }
+
+#r2:checked ~ .nav-auto .btn2 { background-color: rgb(0, 81, 255); }
+
+#r3:checked ~ .nav-auto .btn3 { background-color: rgb(0, 81, 255); }
