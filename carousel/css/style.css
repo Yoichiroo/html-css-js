@@ -77,3 +77,13 @@
 #r3:checked ~ .primeiro {
     margin-left: -50%;
 }
+
+@media screen and (max-width:768px) {
+    .img-pc {
+        display: none;
+    }
+
+    .img-mobile {
+        display: block;
+    }
+}
