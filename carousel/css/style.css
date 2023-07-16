@@ -21,8 +21,8 @@
     display: flex;
 }
 
-.carousel-content input {
-    display: none;
+.carousel-content input, .img-mobile {
+    display: none; 
 }
 
 .carousel-box {
@@ -59,8 +59,4 @@
 
 .nav-manual .btn-manual:hover {
     background-color: rgb(0, 81, 255);
-}
-
-.img-mobile {
-    display: none;
 }
