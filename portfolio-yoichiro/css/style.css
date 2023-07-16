@@ -20,3 +20,9 @@ body {
     background-color: var(--corFundo);
     color: var(--cor02);
 }
+
+header {
+    width: 100%;
+    height: 100vh;
+    background-image: url("");
+}
